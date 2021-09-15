@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rabobank</string>
+    <string name="csv_file_parse_show_below">CSV file parse show below :</string>
+</resources>
